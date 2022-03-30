@@ -1,4 +1,4 @@
-# LogicaProgramacaoAlgoritmosI
+# Logica Programacao Algoritmos I
 
 Você reprovou
 ![image](https://user-images.githubusercontent.com/72118415/160735828-0d1cdd57-4772-4beb-9b77-aa19acf9c7eb.png)
@@ -13,6 +13,6 @@ Você passou!
 Lógica de Programação e Algoritmos I
 
 
-Treinamento de lógica de programação com Visualg estudando Estruturas Condicionais, trabalhando com Tipos
+Treinamento de lógica de programação com Visualg estudando trabalhando com Tipos,  Estruturas Condicionais, 
 
 ****************************************************************************************************************************
