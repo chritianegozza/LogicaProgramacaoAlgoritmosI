@@ -11,12 +11,27 @@ Você passou!
 
 ![image](https://user-images.githubusercontent.com/72118415/160737169-584142e6-1361-4f99-8e99-516d8a00ab30.png)
 
+Exercício para contagem de ponto de multa
+
+![image](https://user-images.githubusercontent.com/72118415/160748615-d5911e0c-3144-4aeb-916e-ad118d1e32d4.png)
+
+
 
 *****************************************************************************************************************************
 Lógica de Programação e Algoritmos I
 
 
 Treinamento de lógica de programação com Visualg estudando trabalhando com Tipos,  Estruturas Condicionais, 
-Estruturas Condicionais II
+Estruturas Condicionais II, Exercícios condicionais
 
 ****************************************************************************************************************************
+Visualg
+
+Visualg é um programa gratuito de edição, interpretação e execução de algoritmos, com uma linguagem próxima
+ao portugol.
+
+***************************************************************************************************************************
+
+Linguagem 
+
+**************************************************************************************************************************
