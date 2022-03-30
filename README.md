@@ -17,5 +17,6 @@ Lógica de Programação e Algoritmos I
 
 
 Treinamento de lógica de programação com Visualg estudando trabalhando com Tipos,  Estruturas Condicionais, 
+Estruturas Condicionais II
 
 ****************************************************************************************************************************
