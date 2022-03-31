@@ -19,6 +19,10 @@ Soma da idades
 
 ![image](https://user-images.githubusercontent.com/72118415/161117526-3be6c577-73ea-4675-b8e5-676db4a2e35d.png)
 
+Repita 
+
+![image](https://user-images.githubusercontent.com/72118415/161123431-75a464cc-92f2-4212-b14a-ef0ffd15a3c0.png)
+
 
 *****************************************************************************************************************************
 Lógica de Programação e Algoritmos I
