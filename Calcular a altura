@@ -1,0 +1,23 @@
+algoritmo "Enquanto"
+
+var
+alturaMarcelo, alturaHelena, crescimentoAnualMarcelo, crescimentoAnualHelena : real
+idade : inteiro
+inicio
+
+alturaMarcelo <- 1.20
+alturaHelena  <- 1.05
+crescimentoAnualMarcelo  <- 0,05
+crescimentoAnualHelena   <- 0.07
+idade <- 8
+
+enquanto alturaMarcelo >= alturaHelena faca
+   alturaMarcelo  <- alturaMarcelo + crescimentoAnualMarcelo
+   alturaHelena <- alturaHelena + crescimentoAnualHelena
+   idade <- idade + 1
+fimenquanto
+
+escreval("Idade  ", idade)
+escreval("Altura Helena ", alturaHelena)
+escreval("altura Marcelo ", alturaMarcelo)
+fimalgoritmo
