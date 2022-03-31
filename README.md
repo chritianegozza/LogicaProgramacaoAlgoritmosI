@@ -23,13 +23,17 @@ Repita
 
 ![image](https://user-images.githubusercontent.com/72118415/161123431-75a464cc-92f2-4212-b14a-ef0ffd15a3c0.png)
 
+Vetores 
+
+![image](https://user-images.githubusercontent.com/72118415/161161794-af15ae83-8945-4ce2-ab14-d1ec0dd01262.png)
+
 
 *****************************************************************************************************************************
 Lógica de Programação e Algoritmos I
 
 
 Treinamento de lógica de programação com Visualg estudando trabalhando com Tipos,  Estruturas Condicionais, 
-Estruturas Condicionais II, Exercícios condicionais
+Estruturas Condicionais II, Exercícios condicionais, Vetores
 
 ****************************************************************************************************************************
 Visualg
