@@ -15,6 +15,9 @@ Exercício para contagem de ponto de multa
 
 ![image](https://user-images.githubusercontent.com/72118415/160748615-d5911e0c-3144-4aeb-916e-ad118d1e32d4.png)
 
+Soma da idades
+
+![image](https://user-images.githubusercontent.com/72118415/161117526-3be6c577-73ea-4675-b8e5-676db4a2e35d.png)
 
 
 *****************************************************************************************************************************
