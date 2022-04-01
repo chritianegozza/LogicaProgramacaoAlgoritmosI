@@ -1,0 +1,23 @@
+algoritmo "Função"
+
+var
+teste : inteiro
+
+funcao somar(a,b:inteiro) : inteiro
+
+inicio
+
+retorne a + b
+fimfuncao
+
+funcao testar() : inteiro
+inicio
+
+retorne somar(20,20) + 40
+fimfuncao
+
+inicio
+escreval(testar())
+
+
+fimalgoritmo
