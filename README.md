@@ -7,7 +7,7 @@ Você reprovou
 Você passou!
 ![image](https://user-images.githubusercontent.com/72118415/160735903-179607f5-68c7-4eb1-b43a-20ff7da67a4a.png)
 
-
+Calcular a nota
 
 ![image](https://user-images.githubusercontent.com/72118415/160737169-584142e6-1361-4f99-8e99-516d8a00ab30.png)
 
